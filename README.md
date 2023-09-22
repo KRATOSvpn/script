@@ -1,0 +1,2 @@
+# script
+comandos separados
